@@ -5,6 +5,7 @@
   "author": "@sapphire",
   "license": "UNLICENSE",
   "dependencies": {
+    "@prisma/client": "^4.11.0",
     "@sapphire/decorators": "^6.0.0",
     "@sapphire/discord.js-utilities": "6.0.3",
     "@sapphire/framework": "^4.2.1",
@@ -20,6 +21,7 @@
     "@types/node": "^18.15.0",
     "@types/ws": "^8.5.4",
     "prettier": "^2.8.4",
+    "prisma": "^4.11.0",
     "tsc-watch": "^6.0.0",
     "typescript": "^4.9.5"
   },
